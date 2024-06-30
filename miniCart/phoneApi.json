@@ -1,0 +1,7 @@
+{
+    "phones": [
+      { "id": 1, "name": "iPhone16", "price": 1500 },
+      { "id": 2, "name": "samsungS22", "price": 1200 }
+    ]
+  }
+  
